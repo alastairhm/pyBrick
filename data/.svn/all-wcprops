@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/14/trunk/pyBrick/data
+END
+background.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/trunk/pyBrick/data/background.txt
+END
+defaultWalls.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/trunk/pyBrick/data/defaultWalls.txt
+END
