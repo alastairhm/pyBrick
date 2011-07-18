@@ -1,6 +1,13 @@
+# Player class
+#
+# 
+#
+# Alastair Montgomery 2010
+# http://www.twitter.com/alastair_hm
+#
+
 import pyglet
-import random
-import math
+
 
 class Player(pyglet.sprite.Sprite):
     image = pyglet.resource.image('graphics/player.png')
