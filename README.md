@@ -1,4 +1,4 @@
-#pyBrick
+# pyBrick
 
 Alastair Montgomery 2010
 
