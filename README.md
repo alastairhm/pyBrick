@@ -11,4 +11,4 @@ Move the bat using the mouse, any keypress or mouse button will exit the game at
 ```bash
 pipenv run python pyBrick.py
 ```
-
+Requires ffmpeg
